@@ -1,0 +1,19 @@
+# Environment variables and secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Virtual environments
+chroma_env/
+chroma_db/
+venv/
+.venv/
+*.pyc
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
